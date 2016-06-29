@@ -1,2 +1,0 @@
-# ReactNativeCasts
-learn react-native
