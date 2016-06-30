@@ -7,7 +7,7 @@ learn react-native by reform https://github.com/StephenGrider/ReactNativeCasts w
 ## 所有分支branch
 
 You can find a list of all branches here: https://github.com/mqy1023/ReactNativeCasts/branches/all. Just click on a branch and you'll be able to see all the code for that particular section.  <br/>
-点击https://github.com/mqy1023/ReactNativeCasts/branches/all查看所有分支 <br/>
+点击https://github.com/mqy1023/ReactNativeCasts/branches/all 查看所有分支 <br/>
 点击其中某个分支可以查看该分支源码
 
 ### 1、SimpleDemos——react native简单入门
