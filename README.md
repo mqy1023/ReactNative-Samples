@@ -15,3 +15,5 @@ You can find a list of all branches here: https://github.com/mqy1023/ReactNative
 ### 2、stopwatch——flex、state、props、event
 
 ### 3、weather——fetch
+
+### 4、authentication——leancloud后台服务器、navigator导航、nestingcomponents嵌套组件
