@@ -16,4 +16,5 @@ You can find a list of all branches here: https://github.com/mqy1023/ReactNative
 
 ### 3、weather——fetch
 
-### 4、authentication——leancloud后台服务器、navigator导航、nestingcomponents嵌套组件
+### 4、authentication——注册&登录前后端
+leancloud后台服务器、navigator导航、nestingcomponents嵌套组件
